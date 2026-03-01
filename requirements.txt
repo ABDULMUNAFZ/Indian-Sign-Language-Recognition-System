@@ -1,0 +1,20 @@
+# Indian Sign Language Recognition System - Dependencies
+
+# Computer Vision & Hand Detection
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# Desktop UI
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+gTTS>=2.5.0
+pygame>=2.5.0
+
+# Pastebin Integration & Testing
+requests>=2.31.0
+python-dotenv>=1.0.0
+pytest>=7.4.0

@@ -1,0 +1,26 @@
+timestamp,mode,language,gestures_detected,final_output,confidence_avg
+2026-01-27 11:27:50,sentence,English,"HELLO,AM,HELLO,COME_HERE",Hello am Hello Come here.,0.0
+2026-01-27 11:28:25,sentence,English,"HELLO,COME_HERE,HELLO,COME_HERE",Hello Come here Hello Come here.,0.0
+2026-01-27 11:40:41,sentence,English,I_AM_FINE,I am fine.,0.0
+2026-01-27 11:45:09,sentence,English,"BYE,I_AM_FINE,BYE,I_AM_FINE,BYE",Goodbye I am fine Goodbye I am fine Goodbye.,0.0
+2026-01-27 11:45:35,sentence,English,I_LOVE_YOU,I love you.,0.0
+2026-01-27 11:45:50,sentence,English,"I_AM_FINE,HOW_ARE_YOU,PINKY",I am fine How are you? Pinky?,0.0
+2026-01-27 12:01:36,sentence,English,"FOUR,HOW_ARE_YOU,I_AM_FINE,I_LOVE_YOU,I_AM_FINE",Four How are you? I am fine I love you I am fine?,0.0
+2026-01-27 12:02:00,sentence,English,"FOUR,HOW_ARE_YOU,I_AM_FINE,I_LOVE_YOU,I_AM_FINE,FOUR",Four How are you? I am fine I love you I am fine Four?,0.0
+2026-01-27 12:20:16,sentence,English,"HELP,SORRY,GOOD,FIST",Help! Sorry Good Yes.,0.0
+2026-01-27 12:20:43,numbers,English,"0,2,6,0,2,1,6",0 2 6 0 2 1 6.,0.0
+2026-01-27 12:48:02,sentence,Hindi,"GOOD,PAIN,HOW_ARE_YOU,ROCK,SORRY",Good I am in pain How are you? Rock on! Sorry?,0.0
+2026-01-27 12:56:56,sentence,English,"HELP,HOW_ARE_YOU,ROCK,HOW_ARE_YOU,GOOD",Help! How are you? Rock on! How are you? Good?,0.0
+2026-01-27 13:00:49,sentence,Tamil,"GOOD,FOUR,I_LOVE_YOU,PROMISE,I_LOVE_YOU",Good Four I love you I promise I love you.,0.0
+2026-01-27 13:56:19,sentence,English,"HELP,YES,HELP",Help! Yes Help!,0.0
+2026-01-27 13:57:22,sentence,Hindi,"HELP,YES,HELP,BAD,YES,HELP,ROCK",Help! Yes Help! Bad Yes Help! Rock on!,0.0
+2026-01-27 14:20:34,sentence,English,"CALL,HELP",Call me Help!,0.0
+2026-01-27 16:51:17,sentence,English,"PLEASE,GOOD,HOW_ARE_YOU",Please Good How are you?,0.0
+2026-01-27 16:51:49,sentence,English,"GOOD,HOW_ARE_YOU,PLEASE,HOW_ARE_YOU,GOOD",Good How are you? Please How are you? Good?,0.0
+2026-01-27 16:52:19,sentence,English,HOW_ARE_YOU,How are you?,0.0
+2026-01-27 16:55:36,sentence,English,"GOOD,PROMISE,GOOD,I_LOVE_YOU,ROCK,I,ROCK,I,GOOD,BAD,GOOD,HOW_ARE_YOU,GOOD,HOW_ARE_YOU,OK_SIGN,GOOD",Good I promise Good I love you Rock on! I Rock on! I Good Bad Good How are you? Good How are you? OK Good?,0.0
+2026-01-27 16:56:03,sentence,Hindi,"HOW_ARE_YOU,PROMISE,HOW_ARE_YOU,SORRY,YES,NO,CALL,OK_SIGN,NO,I",How are you? I promise How are you? Sorry Yes No Call me OK No I?,0.0
+2026-01-27 17:01:30,sentence,Hindi,"GOOD,BAD,GOOD,NO,I,NO,GOOD,HOW_ARE_YOU,OK_SIGN",Good Bad Good No I No Good How are you? OK?,0.0
+2026-01-27 17:05:27,sentence,English,"GOOD,BAD,HOW_ARE_YOU,NO,OK_SIGN,NO,FIST,ALIEN,OK_SIGN",Good Bad How are you? No OK No Yes Alien OK?,0.0
+2026-01-27 17:05:44,sentence,Hindi,"GOOD,BAD,FIST,NO,OK_SIGN,NO,OK_SIGN,HOW_ARE_YOU,GOOD",Good Bad Yes No OK No OK How are you? Good?,0.0
+2026-01-27 18:50:57,sentence,English,"GOOD,BAD,OK_SIGN",Good Bad OK.,0.0

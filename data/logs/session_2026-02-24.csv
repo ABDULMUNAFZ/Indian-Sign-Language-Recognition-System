@@ -1,0 +1,4 @@
+timestamp,mode,language,gestures_detected,final_output,confidence_avg
+2026-02-24 09:53:29,sentence,English,"HI,GOOD,BAD,GOOD,NO,ROCK,GOOD",Hi Good Bad Good No Rock on! Good.,0.0
+2026-02-24 09:54:26,sentence,English,"PLEASE,GOOD,PROMISE,NO,OK_SIGN,NO,PLEASE,ROCK,GOOD,NO,OK_SIGN,NO",Please Good I promise No OK No Please Rock on! Good No OK No.,0.0
+2026-02-24 12:22:14,sentence,English,"HOW_ARE_YOU,I_LOVE_YOU,ROCK,I_LOVE_YOU,ROCK,I_LOVE_YOU,ROCK,GO,NO,GOOD,HELP,EMERGENCY,HELP,EMERGENCY,HELP",How are you? I love you Rock on! I love you Rock on! I love you Rock on! Go No Good Help! Emergency! Help! Emergency! Help!,0.0

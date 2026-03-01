@@ -1,0 +1,5 @@
+timestamp,mode,language,gestures_detected,final_output,confidence_avg
+2026-03-01 22:02:14,sentence,English,"I,FIST,YOU,I,GOOD,I",I Yes You I Good I.,0.0
+2026-03-01 22:02:26,sentence,English,"GOOD,I,ROCK,I_LOVE_YOU,CALL,YOU,I",Good I Rock on! I love you Call me You I.,0.0
+2026-03-01 22:02:39,sentence,English,"FOUR_UP,GOOD,FOUR_UP,PLEASE,FOUR_UP,GOOD,HOW_ARE_YOU,THANK_YOU,STOP,SPIDER",Four Up Good Four Up Please Four Up Good How are you? Thank you Stop Spider?,0.0
+2026-03-01 22:02:55,sentence,English,"PLEASE,HI,GOOD,CALL,BAD,YOU,CALL,I,I_LOVE_YOU,HOW_ARE_YOU",Please Hi Good Call me Bad You Call me I love you How are you?,0.0

@@ -1,0 +1,640 @@
+2026-01-27 14:11:54 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:11:54 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:15:51 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:15:51 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:15:51 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:15:51 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:15:51 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 14:15:51 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 14:15:51 | WARNING | [CameraSystem] Camera failed to open | Details: {'type': 'Exception', 'recoverable': True}
+2026-01-27 14:15:51 | WARNING | [Camera] Camera validation failed: Camera failed to open | Details: {'type': 'Exception', 'recoverable': True}
+2026-01-27 14:20:09 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 14:20:09 | INFO | [HandDetector] Resources released successfully
+2026-01-27 14:20:09 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 14:20:09 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 14:20:09 | INFO | [ResourceManager] Released all resources (2 total)
+2026-01-27 14:20:09 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 14:20:12 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:20:12 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:20:12 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:20:12 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:20:12 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 14:20:12 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 14:20:13 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 14:20:13 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 14:20:13 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 14:21:44 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 14:21:44 | INFO | [HandDetector] Resources released successfully
+2026-01-27 14:21:44 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 14:21:44 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 14:21:44 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 14:21:44 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 14:21:44 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 14:30:23 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:30:23 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:30:23 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:30:23 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:30:23 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 14:30:23 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 14:30:24 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 14:30:24 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 14:30:24 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 14:31:56 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 14:31:56 | INFO | [HandDetector] Resources released successfully
+2026-01-27 14:31:56 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 14:31:56 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 14:31:56 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 14:31:56 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 14:31:56 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 14:35:44 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:35:44 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:41:22 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:41:22 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:41:22 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:41:22 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:41:36 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:41:36 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:41:36 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:41:36 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:42:33 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:42:33 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:42:33 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:42:33 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:42:56 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:42:56 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:42:56 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:42:56 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:44:13 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:44:13 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:44:13 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:44:13 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:45:08 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:45:08 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:45:08 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:45:08 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:49:12 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:49:12 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:49:12 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:49:12 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:49:12 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 14:49:12 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 14:49:13 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 14:49:13 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 14:49:13 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 14:50:47 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 14:50:47 | INFO | [HandDetector] Resources released successfully
+2026-01-27 14:50:47 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 14:50:47 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 14:50:47 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 14:50:47 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 14:50:47 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 14:52:58 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 14:52:58 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:52:58 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 14:52:58 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 14:52:58 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 14:52:58 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 14:52:59 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 14:52:59 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 14:52:59 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 15:01:23 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 15:01:23 | INFO | [HandDetector] Resources released successfully
+2026-01-27 15:01:23 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 15:01:23 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 15:01:23 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 15:01:23 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 15:01:23 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 16:00:15 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 16:00:15 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:00:15 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:00:15 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 16:00:15 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 16:00:15 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 16:00:16 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 16:00:16 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 16:00:16 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 16:01:05 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 16:01:05 | INFO | [HandDetector] Resources released successfully
+2026-01-27 16:01:05 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 16:01:05 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 16:01:05 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 16:01:05 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 16:01:05 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 16:09:40 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 16:09:40 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:09:41 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:09:41 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 16:09:41 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 16:09:41 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 16:09:42 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 16:09:42 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 16:09:42 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 16:10:32 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 16:10:32 | INFO | [HandDetector] Resources released successfully
+2026-01-27 16:10:32 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 16:10:32 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 16:10:32 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 16:10:32 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 16:10:32 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 16:19:32 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 16:19:32 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:19:32 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 16:19:32 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 16:19:32 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 16:19:32 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 16:19:33 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 16:19:33 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 16:19:33 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 17:04:10 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 17:04:10 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 17:05:06 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 17:05:06 | INFO | [HandDetector] Resources released successfully
+2026-01-27 17:05:06 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 17:05:06 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 17:05:06 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 17:05:06 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 17:05:06 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 17:05:12 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 17:05:12 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 17:05:13 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 17:05:13 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 17:05:13 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 17:05:13 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 17:05:13 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 17:05:13 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 17:05:13 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 17:32:25 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 17:33:53 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 17:33:53 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 17:33:53 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 17:33:53 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 17:33:53 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 17:33:53 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 17:33:54 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 17:33:54 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 17:33:54 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 17:33:56 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 17:33:56 | INFO | [HandDetector] Resources released successfully
+2026-01-27 17:33:56 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 17:33:56 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 17:33:56 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 17:33:56 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 17:33:56 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-27 18:41:41 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-27 18:41:41 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 18:41:41 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-27 18:41:41 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-27 18:41:41 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-27 18:41:41 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-27 18:41:42 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-27 18:41:42 | INFO | [ResourceManager] Registered resource: camera
+2026-01-27 18:41:42 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-27 18:55:58 | INFO | [ISLApp] Application shutdown initiated
+2026-01-27 18:55:58 | INFO | [HandDetector] Resources released successfully
+2026-01-27 18:55:58 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-27 18:55:58 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-27 18:55:58 | INFO | [ResourceManager] Released resource: camera
+2026-01-27 18:55:58 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-27 18:55:58 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-28 09:54:26 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 09:54:26 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 09:54:26 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 09:54:26 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 09:54:26 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 09:54:26 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 09:54:27 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 09:54:27 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 09:54:27 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-28 09:57:52 | INFO | [ISLApp] Application shutdown initiated
+2026-01-28 09:57:52 | INFO | [HandDetector] Resources released successfully
+2026-01-28 09:57:52 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-28 09:57:52 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-28 09:57:52 | INFO | [ResourceManager] Released resource: camera
+2026-01-28 09:57:52 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-28 09:57:52 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-28 10:02:47 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:02:47 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:04:07 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:04:07 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:08:15 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:08:15 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:08:15 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:08:15 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 10:08:15 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 10:08:15 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 10:08:16 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 10:08:16 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 10:08:16 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-28 10:17:08 | INFO | [ISLApp] Application shutdown initiated
+2026-01-28 10:17:08 | INFO | [HandDetector] Resources released successfully
+2026-01-28 10:17:08 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-28 10:17:08 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-28 10:17:08 | INFO | [ResourceManager] Released resource: camera
+2026-01-28 10:17:08 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-28 10:17:08 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-28 10:17:10 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:17:10 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:20:15 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:20:15 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:50:26 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:50:26 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:50:26 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:50:26 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 10:50:26 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 10:50:26 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 10:50:27 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 10:50:27 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 10:50:27 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-28 10:51:28 | INFO | [ISLApp] Application shutdown initiated
+2026-01-28 10:52:50 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 10:52:50 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:52:51 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 10:52:51 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 10:52:51 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 10:52:51 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 10:52:52 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 10:52:52 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 10:52:52 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-28 10:54:49 | INFO | [ISLApp] Application shutdown initiated
+2026-01-28 10:54:49 | INFO | [HandDetector] Resources released successfully
+2026-01-28 10:54:49 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-28 10:54:49 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-28 10:54:49 | INFO | [ResourceManager] Released resource: camera
+2026-01-28 10:54:49 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-28 10:54:49 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-28 11:15:47 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 11:15:47 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 11:15:47 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 11:15:47 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 11:15:47 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 11:15:47 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 11:15:48 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 11:15:48 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 11:15:48 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-28 11:17:11 | INFO | [ISLApp] Application shutdown initiated
+2026-01-28 11:17:11 | INFO | [HandDetector] Resources released successfully
+2026-01-28 11:17:11 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-28 11:17:11 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-28 11:17:11 | INFO | [ResourceManager] Released resource: camera
+2026-01-28 11:17:11 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-28 11:17:11 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-28 19:45:16 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-28 19:45:16 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 19:45:16 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-28 19:45:16 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-28 19:45:16 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-28 19:45:16 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-28 19:45:17 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-28 19:45:17 | INFO | [ResourceManager] Registered resource: camera
+2026-01-28 19:45:17 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 09:20:24 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 09:20:24 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:20:25 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:20:25 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 09:20:25 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 09:20:25 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 09:20:26 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 09:20:26 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 09:20:26 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 09:21:02 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 09:21:02 | INFO | [HandDetector] Resources released successfully
+2026-01-29 09:21:02 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 09:21:02 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 09:21:02 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 09:21:02 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 09:21:02 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 09:31:21 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 09:31:21 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:31:21 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:31:21 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 09:31:21 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 09:31:21 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 09:31:22 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 09:31:22 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 09:31:22 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 09:35:39 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 09:35:39 | INFO | [HandDetector] Resources released successfully
+2026-01-29 09:35:39 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 09:35:39 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 09:35:39 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 09:35:39 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 09:35:39 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 09:35:42 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 09:35:42 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:35:42 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 09:35:42 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 09:35:43 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 09:35:43 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 09:35:43 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 09:35:43 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 09:35:43 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 09:40:38 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 09:40:38 | INFO | [HandDetector] Resources released successfully
+2026-01-29 09:40:38 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 09:40:38 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 09:40:38 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 09:40:38 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 09:40:38 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:03:21 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:03:21 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:03:21 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:03:21 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:03:21 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:03:21 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:03:22 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:03:22 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:03:22 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 10:04:03 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 10:04:03 | INFO | [HandDetector] Resources released successfully
+2026-01-29 10:04:03 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 10:04:03 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 10:04:03 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 10:04:03 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 10:04:03 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:25:07 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:25:07 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:25:08 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:25:08 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:25:08 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:25:08 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:25:09 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:25:09 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:25:09 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 10:27:09 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 10:27:09 | INFO | [HandDetector] Resources released successfully
+2026-01-29 10:27:09 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 10:27:09 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 10:27:09 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 10:27:09 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 10:27:09 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:41:02 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:41:02 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:41:02 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:41:02 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:41:02 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:41:02 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:41:03 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:41:03 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:41:03 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 10:41:24 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 10:41:24 | INFO | [HandDetector] Resources released successfully
+2026-01-29 10:41:24 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 10:41:24 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 10:41:24 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 10:41:24 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 10:41:24 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:45:53 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:45:53 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:45:53 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:45:53 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:45:53 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:45:53 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:45:54 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:45:54 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:45:54 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 10:48:39 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 10:48:39 | INFO | [HandDetector] Resources released successfully
+2026-01-29 10:48:39 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 10:48:39 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 10:48:39 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 10:48:39 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 10:48:39 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:50:16 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:50:16 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:50:16 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:50:16 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:50:16 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:50:16 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:50:17 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:50:17 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:50:17 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 10:52:16 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 10:52:16 | INFO | [HandDetector] Resources released successfully
+2026-01-29 10:52:16 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 10:52:16 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 10:52:16 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 10:52:16 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 10:52:16 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 10:52:54 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 10:52:54 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:52:54 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 10:52:54 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 10:52:54 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 10:52:54 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 10:52:55 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 10:52:55 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 10:52:55 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 11:14:38 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 11:14:38 | INFO | [HandDetector] Resources released successfully
+2026-01-29 11:14:38 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 11:14:38 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 11:14:38 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 11:14:38 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 11:14:38 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 11:14:41 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 11:14:41 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 11:14:41 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 11:14:41 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 11:14:41 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 11:14:41 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 11:14:42 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 11:14:42 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 11:14:42 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 11:35:39 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 11:35:39 | INFO | [HandDetector] Resources released successfully
+2026-01-29 11:35:39 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 11:35:39 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 11:35:39 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 11:35:39 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 11:35:39 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 11:35:45 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 11:35:45 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 11:35:45 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 11:35:45 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 11:35:45 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 11:35:45 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 11:35:46 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 11:35:46 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 11:35:46 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 12:04:15 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 12:04:15 | INFO | [HandDetector] Resources released successfully
+2026-01-29 12:04:15 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 12:04:15 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 12:04:15 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 12:04:15 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 12:04:15 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 12:05:53 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 12:05:53 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 12:05:53 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 12:05:53 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 12:05:53 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 12:05:53 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 12:05:54 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 12:05:54 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 12:05:54 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 13:04:45 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 13:04:45 | INFO | [HandDetector] Resources released successfully
+2026-01-29 13:04:45 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 13:04:45 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 13:04:45 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 13:04:45 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 13:04:45 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 13:04:54 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 13:04:54 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:04:55 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:04:55 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 13:04:55 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 13:04:55 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 13:04:56 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 13:04:56 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 13:04:56 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 13:40:56 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 13:40:56 | INFO | [HandDetector] Resources released successfully
+2026-01-29 13:40:56 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 13:40:56 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 13:40:56 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 13:40:56 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 13:40:56 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 13:43:11 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 13:43:11 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:43:11 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:43:11 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 13:43:11 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 13:43:11 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 13:43:12 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 13:43:12 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 13:43:12 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 13:44:21 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 13:44:21 | INFO | [HandDetector] Resources released successfully
+2026-01-29 13:44:21 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 13:44:21 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 13:44:21 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 13:44:21 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 13:44:21 | INFO | [ISLApp] Application shutdown completed successfully
+2026-01-29 13:51:13 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-01-29 13:51:13 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:51:13 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-01-29 13:51:13 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-01-29 13:51:13 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-01-29 13:51:13 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-01-29 13:51:14 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-01-29 13:51:14 | INFO | [ResourceManager] Registered resource: camera
+2026-01-29 13:51:14 | INFO | [Camera] Camera started successfully: 640x480
+2026-01-29 13:58:47 | INFO | [ISLApp] Application shutdown initiated
+2026-01-29 13:58:47 | INFO | [HandDetector] Resources released successfully
+2026-01-29 13:58:47 | INFO | [ResourceManager] Released resource: hand_detector
+2026-01-29 13:58:47 | INFO | [ResourceManager] Released resource: tts_engine
+2026-01-29 13:58:47 | INFO | [ResourceManager] Released resource: camera
+2026-01-29 13:58:47 | INFO | [ResourceManager] Released all resources (3 total)
+2026-01-29 13:58:47 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-01 18:31:58 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-01 18:31:58 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-01 18:31:58 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-01 18:31:58 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-01 18:31:58 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-01 18:31:58 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-01 18:31:59 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-01 18:31:59 | INFO | [ResourceManager] Registered resource: camera
+2026-02-01 18:31:59 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-01 18:35:36 | INFO | [ISLApp] Application shutdown initiated
+2026-02-01 18:35:36 | INFO | [HandDetector] Resources released successfully
+2026-02-01 18:35:36 | INFO | [ResourceManager] Released resource: hand_detector
+2026-02-01 18:35:36 | INFO | [ResourceManager] Released resource: tts_engine
+2026-02-01 18:35:36 | INFO | [ResourceManager] Released resource: camera
+2026-02-01 18:35:36 | INFO | [ResourceManager] Released all resources (3 total)
+2026-02-01 18:35:36 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-02 00:31:21 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-02 00:31:21 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-02 00:31:21 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-02 00:31:21 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-02 00:31:22 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-02 00:31:22 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-02 00:31:22 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-02 00:31:22 | INFO | [ResourceManager] Registered resource: camera
+2026-02-02 00:31:22 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-02 00:32:01 | INFO | [ISLApp] Application shutdown initiated
+2026-02-02 00:32:01 | INFO | [HandDetector] Resources released successfully
+2026-02-02 00:32:01 | INFO | [ResourceManager] Released resource: hand_detector
+2026-02-02 00:32:01 | INFO | [ResourceManager] Released resource: tts_engine
+2026-02-02 00:32:01 | INFO | [ResourceManager] Released resource: camera
+2026-02-02 00:32:01 | INFO | [ResourceManager] Released all resources (3 total)
+2026-02-02 00:32:01 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-24 09:10:08 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 09:10:08 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:10:08 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:10:08 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:10:08 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-24 09:10:08 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-24 09:10:10 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-24 09:10:10 | INFO | [ResourceManager] Registered resource: camera
+2026-02-24 09:10:10 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-24 09:10:39 | INFO | [ISLApp] Application shutdown initiated
+2026-02-24 09:10:39 | INFO | [HandDetector] Resources released successfully
+2026-02-24 09:10:39 | INFO | [ResourceManager] Released resource: hand_detector
+2026-02-24 09:10:39 | INFO | [ResourceManager] Released resource: tts_engine
+2026-02-24 09:10:39 | INFO | [ResourceManager] Released resource: camera
+2026-02-24 09:10:39 | INFO | [ResourceManager] Released all resources (3 total)
+2026-02-24 09:10:39 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-24 09:35:27 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 09:35:27 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:35:27 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:35:27 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:35:27 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-24 09:35:27 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-24 09:35:28 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-24 09:35:28 | INFO | [ResourceManager] Registered resource: camera
+2026-02-24 09:35:28 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-24 09:42:25 | INFO | [ISLApp] Application shutdown initiated
+2026-02-24 09:42:25 | INFO | [HandDetector] Resources released successfully
+2026-02-24 09:42:25 | INFO | [ResourceManager] Released resource: hand_detector
+2026-02-24 09:42:25 | INFO | [ResourceManager] Released resource: tts_engine
+2026-02-24 09:42:25 | INFO | [ResourceManager] Released resource: camera
+2026-02-24 09:42:25 | INFO | [ResourceManager] Released all resources (3 total)
+2026-02-24 09:42:25 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-24 09:48:10 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 09:48:10 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:48:10 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:48:10 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:51:03 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 09:51:03 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:51:03 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:51:03 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:51:03 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-24 09:51:03 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-24 09:51:04 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-24 09:51:04 | INFO | [ResourceManager] Registered resource: camera
+2026-02-24 09:51:04 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-24 09:54:13 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 09:54:13 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:54:13 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 09:54:13 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 09:54:13 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-24 09:54:13 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-24 09:54:14 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-24 09:54:14 | INFO | [ResourceManager] Registered resource: camera
+2026-02-24 09:54:14 | INFO | [Camera] Camera started successfully: 640x480
+2026-02-24 12:22:41 | INFO | [ISLApp] Application shutdown initiated
+2026-02-24 12:22:41 | INFO | [HandDetector] Resources released successfully
+2026-02-24 12:22:41 | INFO | [ResourceManager] Released resource: hand_detector
+2026-02-24 12:22:41 | INFO | [ResourceManager] Released resource: tts_engine
+2026-02-24 12:22:41 | INFO | [ResourceManager] Released resource: camera
+2026-02-24 12:22:41 | INFO | [ResourceManager] Released all resources (3 total)
+2026-02-24 12:22:41 | INFO | [ISLApp] Application shutdown completed successfully
+2026-02-24 12:22:48 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-02-24 12:22:48 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 12:22:48 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-02-24 12:22:48 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-02-24 12:22:48 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-02-24 12:22:48 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-02-24 12:22:49 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-02-24 12:22:49 | INFO | [ResourceManager] Registered resource: camera
+2026-02-24 12:22:49 | INFO | [Camera] Camera started successfully: 640x480
+2026-03-01 22:00:34 | INFO | [SafetyMonitor] Safety monitoring initialized
+2026-03-01 22:00:34 | INFO | [BISCompliance] BIS Compliance module loaded | Details: {'version': '1.0.0', 'standards': ['IS 13252', 'IS 16333']}
+2026-03-01 22:00:35 | INFO | [ISLApp] Application starting with BIS compliance enabled | Details: {'standards': ['IS 13252', 'IS 16333']}
+2026-03-01 22:00:35 | INFO | [HandDetector] Initializing hand detection module with BIS compliance
+2026-03-01 22:00:44 | INFO | [ResourceManager] Registered resource: hand_detector
+2026-03-01 22:00:44 | INFO | [ResourceManager] Registered resource: tts_engine
+2026-03-01 22:00:46 | INFO | [CameraSystem] Camera initialized successfully: 640x480
+2026-03-01 22:00:46 | INFO | [ResourceManager] Registered resource: camera
+2026-03-01 22:00:46 | INFO | [Camera] Camera started successfully: 640x480

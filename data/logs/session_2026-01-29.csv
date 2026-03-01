@@ -1,0 +1,17 @@
+timestamp,mode,language,gestures_detected,final_output,confidence_avg
+2026-01-29 10:03:47,sentence,English,"PROMISE,GOOD,BAD",I promise Good Bad.,0.0
+2026-01-29 10:25:50,sentence,English,"I_LOVE_YOU,ROCK,I_LOVE_YOU,PLEASE,HOW_ARE_YOU,PLEASE,GOOD,HOW_ARE_YOU,PLEASE",I love you Rock on! I love you Please How are you? Please Good How are you? Please?,0.0
+2026-01-29 10:46:45,sentence,English,"GOOD,SORRY,BAD",Good Sorry Bad.,0.0
+2026-01-29 10:50:26,sentence,English,"GOOD,BAD,GOOD,WHAT",Good Bad Good What?,0.0
+2026-01-29 10:51:01,sentence,Hindi,"PLEASE,I_LOVE_YOU,GOOD,SORRY,GOOD,FIST,GOOD,PROMISE,FIST,GOOD,HOW_ARE_YOU,BAD,HOW_ARE_YOU,BAD,GOOD,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU",Please I love you Good Sorry Good Yes Good I promise Yes Good How are you? Bad How are you? Bad Good How are you? I love you How are you? I love you How are you?,0.0
+2026-01-29 10:54:07,sentence,English,"SORRY,GOOD,SORRY,PROMISE,ROCK,PROMISE,ROCK,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,I_LOVE_YOU,HOW_ARE_YOU,PROMISE",Sorry Good Sorry I promise Rock on! I promise Rock on! I love you How are you? I love you How are you? I love you How are you? I love you How are you? I love you How are you? I love you How are you? I love you How are you? I love you How are you? I love you How are you? I promise?,0.0
+2026-01-29 10:55:57,sentence,Hindi,YES,Yes.,0.0
+2026-01-29 11:08:34,sentence,Hindi,"HELLO,OPEN_PALM,CALL,GOOD,CALL,NO,OPEN_PALM,WATER,OPEN_PALM,HOW_ARE_YOU,GOOD,HOW_ARE_YOU,BAD",Hello Call me Good Call me No Hello Water Hello How are you? Good How are you? Bad?,0.0
+2026-01-29 11:14:48,sentence,English,"GOOD,YES,SORRY,YES,BAD",Good Yes Sorry Yes Bad.,0.0
+2026-01-29 11:20:37,sentence,Hindi,"BYE,GOOD,BAD,HOW_ARE_YOU,ROCK,HELP,I_LOVE_YOU,ROCK,I_LOVE_YOU,BYE",Goodbye Good Bad How are you? Rock on! Help! I love you Rock on! I love you Goodbye?,0.0
+2026-01-29 11:33:54,sentence,Hindi,"PROMISE,I,PROMISE,I,PROMISE,PLEASE,PROMISE,I,PLEASE",I promise I promise I promise Please I promise I Please.,0.0
+2026-01-29 11:40:37,sentence,English,"GOOD,BAD,FIST,PLEASE",Good Bad Yes Please.,0.0
+2026-01-29 12:39:04,sentence,English,"GOOD,BAD",Good Bad.,0.0
+2026-01-29 12:40:09,sentence,Hindi,"GOOD,I_LOVE_YOU,HOW_ARE_YOU,GOOD",Good I love you How are you? Good?,0.0
+2026-01-29 12:41:14,sentence,Hindi,"SORRY,OPEN_PALM,SORRY,I",Sorry Hello Sorry I.,0.0
+2026-01-29 13:24:10,sentence,English,"ROCK,GO,SORRY,GOOD,PLEASE,GOOD,GO,ROCK,OPEN_PALM,PLEASE",Rock on! Go Sorry Good Please Good Go Rock on! Hello Please.,0.0
